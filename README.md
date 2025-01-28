@@ -1,6 +1,6 @@
 # Tx Parser Service
 
-This is a naive implementation of ETH blocks transactions parser service for a subscribred address 
+This is a naive implementation of ETH blocks transactions parser service for a subscribed address 
 
 
 ## Functional requirements
